@@ -16,8 +16,8 @@
             $suc = $num + 1;
 
             echo"O valor informado foi: $num <br>";
-            echo"O antecessor foi: $ant";
-            echo"<br>O sucessor será: $suc";        
+            echo"O antecessor do número foi: $ant";
+            echo"<br>O sucessor do número será: $suc";        
             ?> 
         </p>
         <button onclick="history.back()">Voltar
